@@ -1,7 +1,7 @@
 # Path Setting
 require('dotenv').config({path: './config/.env'});
 
-config folder is a subfolder from current working directory.
+config folder is a subfolder under current working directory.
 
 # dotenv
 
