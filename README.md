@@ -1,3 +1,6 @@
+# Path Setting
+require('dotenv').config({path: './config/.env'});
+
 # dotenv
 
 <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" alt="dotenv" align="right" />
